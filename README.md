@@ -145,6 +145,7 @@ Satıcılara ait bilgileri içerir.
 - **SQL_Project_1.png**: Aylık order dağılımını gösteren görsel ve analizi.
 - **SQL_Project_2a.png**: Haftanın günlerine göre (Pztesi, Salı, Çarş., ...) order sayılarının dağılımını gösteren görsel ve analizi.
 - **SQL_Project_2b.png**: Ayın günlerine göre (1, 2, 3, ... ,29,30,31) order sayılarının dağılımını gösteren görsel ve analizi.
+- **README.md**: Projenin genel bakışını, veri kümesini analizleri ve depo içeriğini açıklayan bu dokümantasyon dosyası.
 
 ## Kurulum ve Kullanım
 
