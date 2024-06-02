@@ -150,6 +150,6 @@ Satıcılara ait bilgileri içerir.
 
 1. **Depoyu İndirin**
    - Depoyu yerel bilgisayarınıza klonlayın veya indirin.
-2. **pdf Formatındaki Dosyayı Açın**
+2. **"pdf" Formatındaki Dosyayı Açın**
    - 'EmrahBas_SQL_Project.pdf' dosyasını açarak veri kümesini inceleyin ve gerçekleştirilen analizleri gözden geçirin. 
 
